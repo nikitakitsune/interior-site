@@ -1,0 +1,9 @@
+.header__title {
+  font-family: "Larken-Regular";
+  font-weight: 400;
+  font-size: 74px;
+  line-height: 84px;
+  text-transform: uppercase;
+  color: white;
+  max-width: 700px;
+}

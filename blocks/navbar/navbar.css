@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1720px;
+}
+
+@media screen and (min-width: 1760px) {
+  .navbar {
+    margin: 25px auto 0;
+  }
+}
+
+@media screen and (max-width: 1759px) {
+  .navbar {
+    margin: 25px 20px 0;
+  }
+}

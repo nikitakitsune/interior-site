@@ -1,0 +1,19 @@
+.navbar__button {
+  width: 133px;
+  height: 49px;
+  border: 1px solid white;
+  color: white;
+  background-color: transparent;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 18.75px;
+  text-transform: uppercase;
+}
+
+.navbar__button:hover {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 1680px) {
+
+}
