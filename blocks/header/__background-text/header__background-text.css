@@ -1,13 +1,16 @@
 .header__background-text {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto-Regular", sans-serif;
   font-weight: 800;
   font-size: 168px;
-  line-height: 100px;
-  margin: 0;
-  color: var(--dark-color);
   opacity: 0.4;
+  color: var(--dark-color);
   text-transform: uppercase;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  z-index: -2;
 }
+
+@media screen and (max-width: 2000px) {
+  .header__background-text {
+    display: none;
+  }
+}
+

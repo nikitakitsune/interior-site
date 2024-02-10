@@ -1,6 +1,29 @@
-.header__image {
-  width: 50vw;
-  height: 50vw;
-  z-index: -1;
-  margin: -115px 0 0;
+@media screen and (min-width: 1441px) {
+  .header__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 55vw;
+    height: 50vw;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .header__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 720px;
+    height: 720px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .header__image {
+    width: 100vw;
+    height: 100vw;
+    margin: 0 0 0 -40px;
+  }
 }

@@ -1,0 +1,13 @@
+.header__background-line {
+  position: absolute;
+  top: 10vh;
+  width: 50vw;
+  z-index: -2;
+  left: 0;
+}
+
+@media screen and (max-width: 720px) {
+  .header__background-line {
+    display: none;
+  }
+}

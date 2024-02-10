@@ -1,9 +1,9 @@
 .header__paragraph {
-  font-family: "Roboto-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 33px;
-  font-weight: 400;
-  max-width: 534px;
   color: var(--sub-color);
-  margin: 0;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 534px;
+  margin: 0 0 50px;
 }
