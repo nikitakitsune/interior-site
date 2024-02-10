@@ -30,3 +30,6 @@
 @import url("../blocks/specializations/__header/specializations__header.css");
 @import url("../blocks/specializations/__list/specilizations__list.css");
 @import url("../blocks/specializations/__photo/specializations__photo.css");
+@import url("../blocks/specializations-item/specializations-item.css");
+@import url("../blocks/specializations-item/__header/specializations-item__header.css");
+@import url("../blocks/specializations-item/__subtitle/specializations-item__subtitle.css");

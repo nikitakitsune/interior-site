@@ -1,0 +1,11 @@
+.specializations-item__subtitle {
+  color: white;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  max-width: 230px;
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+  margin: 0;
+}

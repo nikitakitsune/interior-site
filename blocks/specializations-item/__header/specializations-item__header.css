@@ -1,0 +1,10 @@
+.specializations-item__header {
+  font-family: "Larken-Medium";
+  font-weight: 400;
+  font-size: 24px;
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 390px;
+  left: 30px;
+}
