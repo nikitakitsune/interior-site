@@ -6,6 +6,7 @@
   color: var(--dark-color);
   text-transform: uppercase;
   z-index: -2;
+  margin: -168px 0 0;
 }
 
 @media screen and (max-width: 2000px) {
@@ -13,4 +14,3 @@
     display: none;
   }
 }
-
